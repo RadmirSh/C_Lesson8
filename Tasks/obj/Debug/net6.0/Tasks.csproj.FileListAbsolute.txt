@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\bin\Debug\net6.0\Tasks.exe
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\bin\Debug\net6.0\Tasks.deps.json
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\bin\Debug\net6.0\Tasks.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\bin\Debug\net6.0\Tasks.dll
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\bin\Debug\net6.0\Tasks.pdb
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.dll
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\refint\Tasks.dll
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.pdb
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\Tasks.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GBLessons\CSh\C_Lesson8\C_Lesson8\Tasks\obj\Debug\net6.0\ref\Tasks.dll
